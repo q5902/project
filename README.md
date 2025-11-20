@@ -1,5 +1,5 @@
 # project
 i working on python project and i need some help
 
-what do you looking for ?
-flag{FAKE_FLAG}
+oh i see there it`s 
+FlagBU{n1ce_h1n7ing}
